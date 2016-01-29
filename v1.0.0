@@ -1,0 +1,310 @@
+
+<!DOCTYPE html>
+<head>
+<link rel="stylesheet" href="stylesheet.css"/>
+    <script src="script.js"></script>
+    <script src="//fast.eager.io/xUSaMiHTKj.js"></script>
+</head>
+<body>
+    <section id="section1">
+        <div class="navbar">
+            <div class="brand">
+                <a><span>z</span>man</a>
+            </div>
+            <ul class="Links">
+                <li>Home</li>
+                <li>Services</li>
+                <li>Work</li>
+                <li>Blog</li>
+                <li>Pricing</li>
+                <li>Team</li>
+                <li>Contact</li>
+            </ul>
+            <div class="clearfix"></div>
+        </div>
+        <article class="section1-articles">
+            <header>
+                WE ARE CREATIVE DESIGN AGENCY
+            </header>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, fuga, consectetur sequi consequuntur nisi placeat
+ ullam maiores perferendis.Quod, nihil reiciendis saepe optio libero minus et beatae ipsam reprehenderit sequi.
+            </p>
+        </article>
+        <button class="buttons-in-general">Find out more</button>
+        <button class="buttons-in-general">buy now</button>
+    </section>
+    <section id="section2">
+        <header class="main-headers">
+            OUR SERVICES
+        </header>
+        <article class="section2-articles">
+            <img class="section2-icons" src="favorite21%20(1).png"/>
+            <header class="section2-header">
+                Lovely Design
+            </header>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, fuga, consectetur sequi consequuntur nisi placeat
+ ullam maiores perferendis.Quod, nihil reiciendis saepe optio libero minus et beatae ipsam reprehenderit sequi.
+            </p>
+            <button class="buttons-in-general">Read More</button>
+        </article>
+        <article class="section2-articles">
+        <img class="section2-icons" src="responsive16.png"/>
+            <header class="section2-headers">
+                User Friendly
+            </header>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, fuga, consectetur sequi consequuntur nisi placeat
+ ullam maiores perferendis.Quod, nihil reiciendis saepe optio libero minus et beatae ipsam reprehenderit sequi.
+            </p>
+            <button class="buttons-in-general">Read More</button>
+        </article>
+        <article class="section2-articles">
+        <img class="section2-icons" src="website18.png"/>
+            <header class="section2-headers">
+                Development
+            </header>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, fuga, consectetur sequi consequuntur nisi placeat
+ ullam maiores perferendis.Quod, nihil reiciendis saepe optio libero minus et beatae ipsam reprehenderit sequi.
+            </p>
+            <button class="buttons-in-general">Read More</button>
+        </article>
+        <article class="section2-articles">
+        <img class="section2-icons" src="draft.png"/>
+            <header class="section2-headers">
+                Great Concept
+            </header>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, fuga, consectetur sequi consequuntur nisi placeat
+ ullam maiores perferendis.Quod, nihil reiciendis saepe optio libero minus et beatae ipsam reprehenderit sequi.
+            </p>
+            <button class="buttons-in-general">Read More</button>
+        </article>        
+    </section>
+    <section id="section3">
+        <header class="main-headers">
+            RECENT WORK
+        </header>
+        <div class="section3-boxes" id="box" onmouseover="showImageSearch()">
+            <div class="sec3-divs-image">
+                <img class="section3-search-image" src="search100.png"/>
+            </div>
+        </div>
+        <div class="section3-boxes" id="box" onmouseover="showImageSearch()">
+            <div class="sec3-divs-image">
+                <img class="section3-search-image" src="search100.png"/>
+            </div>
+        </div>
+        <div class="section3-boxes" id="box" onmouseover="showImageSearch()">
+            <div class="sec3-divs-image">
+                <img class="section3-search-image" src="search100.png"/>
+            </div>
+        </div>
+        <div class="section3-boxes" id="box" onmouseover="showImageSearch()">
+            <div class="sec3-divs-image">
+                <img class="section3-search-image" src="search100.png"/>
+            </div>
+        </div>
+        <div class="section3-boxes" onmouseover="showImageSearch()">
+            <div class="sec3-divs-image">
+                <img class="section3-search-image" src="search100.png"/>
+            </div>
+        </div>
+        <div class="section3-boxes" onmouseover="showImageSearch()">
+            <div class="sec3-divs-image">
+                <img class="section3-search-image" src="search100.png"/>
+            </div>
+        </div>
+        <button class="buttons-in-general">View More</button>
+    </section>
+    <section id="section4">
+        <header class="main-headers">
+            OUR BLOG
+        </header>
+        <article class="section4-articles">
+            <img class="section4-articles-images" src="back.jpeg"/>
+            <header class="section4-headers">
+                BEYOUND THE SKY, AWSOME IMAGE
+            </header>
+            <a class="sectoin4-articles-date">
+                14 Dec 2016 - Business
+            </a>
+            <p class="section4-articles-details">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, fuga, consectetur sequi consequuntur nisi placeat
+ ullam maiores perferendis.Quod, nihil reiciendis saepe optio libero minus et beatae ipsam reprehenderit sequi.
+            </p>
+            <button class="buttons-in-general">Read More</button>
+        </article>
+        <article class="section4-articles">
+            <img class="section4-articles-images" src="back.jpeg"/>
+            <header class="section4-headers">
+                BEYOUND THE SKY, AWSOME IMAGE
+            </header>
+            <a class="sectoin4-articles-date">14 Dec 2016 - Business</a>
+            <p class="section4-articles-details">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum, fuga, consectetur sequi consequuntur nisi placeat
+ ullam maiores perferendis.Quod, nihil reiciendis saepe optio libero minus et beatae ipsam reprehenderit sequi.
+            </p>
+            <button class="buttons-in-general">Read More</button>
+        </article>
+    </section>
+    <section id="section5">
+        <header class="main-headers">
+            PRICING
+        </header>
+        <article class="section5-articles">
+            <img class="section5-icons" src=""/>
+            <header class="section5-header">
+                DESIGN SERVICE
+            </header>
+            <p>
+                <!--- some text for article 1 --->
+            </p>
+            <button class="buttons-in-general">Buy Now</button>
+        </article>
+        <article class="section5-articles">
+            <img class="section5-icons" src=""/>
+            <header class="section5-header">
+                HTML CODING
+            </header>
+            <p>
+                <!--- some text for article 2 --->
+            </p>
+            <button class="buttons-in-general">Buy Now</button>
+        </article>
+        <article class="section5-articles">
+            <img class="section5-icons" src=""/>
+            <header class="section5-header">
+                DEVELOPMENT
+            </header>
+            <p>
+                <!--- some text for article 3 --->
+            </p>
+            <button class="buttons-in-general">Buy Now</button>
+        </article>
+    </section>
+    <section id="section6">
+        <header class="main-headers">
+            OUR TEAM
+        </header>
+        <div>
+            <img id="section6-personal-images" src="" />
+            <a>Junaid Shahzad</a>
+            <div id="section6-social-icons">
+                <img class="section6-social-icon" onmouseover="social-hover-1()" src="" title="share it" />
+                <img class="section6-social-icon" onmouseover="social-hover-1()" src="" title="share it" />
+                <img class="section6-social-icon" onmouseover="social-hover-1()" src="" title="share it" />
+                <img class="section6-social-icon" onmouseover="social-hover-1()" src="" title="share it" />
+            </div>
+        </div>
+    </section>
+    <section id="section7">
+        <header class="main-headers">
+            CONTACT
+        </header>
+        <section>
+            <header class="section7-header">
+                Talk to us
+            </header>
+            <p>
+                <!--- some text for the P --->
+            </p>
+        </section>
+        <section id="section7-form">
+            <form>
+                <input id="contact-form-name"       
+                       type="text" 
+                       placeholder="Name"/>
+                <input id="contact-form-email"      
+                       type="email" 
+                       required placeholder="E-mail"/>
+                <input id="contact-form-messege"    
+                       type="text" 
+                       required 
+                       placeholder="Message"/>
+                <input id="contact-form-button"     
+                       type="button" 
+                       value="Send"/>
+            </form>
+        </section>
+        <footer>
+            <div class="section7-footer">
+                <img class="section7-footer-icons" src=""/>
+                <div>
+                    <a>Address:</a>
+                    <p>
+                        <!--- some text for the P --->
+                    </p>
+                </div>
+            </div>
+            <div class="section7-footer">
+                <img class="section7-footer-icons" src=""/>
+                <div>
+                    <a>Phone:</a>
+                    <p>
+                        <!--- some text for the P --->
+                    </p>
+                </div>
+            </div>
+            <div class="section7-footer">
+                <img class="section7-footer-icons" src=""/>
+                <div>
+                    <a>Work Time:</a>
+                    <p>
+                        <!--- some text for the P --->
+                    </p>
+                </div>
+            </div>
+        </footer>
+    </section>
+    <section id="section8">
+        <article class="section8-articles">
+            <div class="section8-articles-labels">ABOUT ME</div>
+            <div>
+                <img class="section8-images" src=""/>
+                <p>
+                    <!--- some text for the P --->
+                </p>
+            </div>
+        </article>
+        <article class="section8-articles">
+            <div class="section8-articles-labels">POPULAR POSTS</div>
+            <div class="section8-aricle2-divs">
+                <img class="section8-images" src=""/>
+                <a>BEYOUND THE SKY, AWESOME IMAGE</a>
+            </div>
+            <div class="section8-aricle2-divs">
+                <img class="section8-images" src=""/>
+                <a>BEYOUND THE SKY, AWESOME IMAGE</a>
+            </div>
+        </article>
+        <article class="section8-articles">
+            <div class="section8-article3-divs">
+                <a>html</a>
+            </div>
+            <div class="section8-article3-divs">
+                <a>css</a>
+            </div>
+            <div class="section8-article3-divs">
+                <a>javascript</a>
+            </div>
+        </article>
+    </section>
+    <footer>
+        <div id="footer-social-icons">
+            <img class="footer-social-icon" onmouseover="social-hover-2()" src=""/>
+            <img class="footer-social-icon" onmouseover="social-hover-2()" src=""/>
+            <img class="footer-social-icon" onmouseover="social-hover-2()" src=""/>
+            <img class="footer-social-icon" onmouseover="social-hover-2()" src=""/>
+            <img class="footer-social-icon" onmouseover="social-hover-2()" src=""/>
+        </div>
+        <div id="footer-logo">
+            <img src="" alt="logo" title="zaman-logo"/>
+        </div>
+        <div>
+            <a>Copyright 2016 zaman&copy; | Designed By SouFiane Abid | Coded By <a href="www.facebook.com/egyption1">Abdulla Al-Sayyed</a></a>
+        </div>
+    </footer>
+</body>
